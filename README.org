@@ -1,0 +1,8 @@
+#+TITLE: How to Program
+#+SUBTITLE: Not a programming language course
+#+AUTHOR: Charlie Martin
+
+* Introduction
+
+This is an ongoing series of notes to teach beginners how to program,
+rather than programming language X.
