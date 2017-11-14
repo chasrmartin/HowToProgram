@@ -363,7 +363,7 @@ you can run a "Hello, world" Maven project.
 * Conclusion
 
 I do a lot of training and mentoring real beginners in
-programming. Conssitently, one of the hardest problems for them is
+programming. Consistently, one of the hardest problems for them is
 what to do when you're looking at that first, empty project. But
 anyone can set up a "Hello, world" program, and make it run, and that
 first step means solving your first problems with any new project.
