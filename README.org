@@ -1,6 +1,7 @@
 #+TITLE: How to Program
 #+SUBTITLE: Not a programming language course
 #+AUTHOR: Charlie Martin
+#+STARTUP: showall
 
 * Introduction
 
